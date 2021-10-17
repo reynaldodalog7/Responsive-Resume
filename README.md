@@ -1,2 +1,2 @@
-https://github.com/reynaldodalog7
  Mobile Responsive Resume
+ https://reynaldodalog7.github.io/Responsive-Resume/
